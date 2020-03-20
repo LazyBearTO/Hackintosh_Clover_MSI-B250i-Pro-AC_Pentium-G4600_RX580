@@ -1,6 +1,6 @@
 ## MSI B250I GAMING PRO AC  Pentium G4600  Hackintoshi/Clover  EFI
 
-HD630 from Pentium G4600 doesn't support working alone, need another descrited GPU.
+HD630 from Pentium G4600 doesn't support working alone, need another discreted GPU.
 
 ## 配置/config
 
